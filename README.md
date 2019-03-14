@@ -14,7 +14,7 @@ We also used Grid First Search on RNN where we experimented with different types
 ClosedForm.py:
 This file is an implementation of linear regression on a dataset using Closed-Form Solution.
 
-GradientDescent.py:
+Gradient.py:
 This file is an implementation of linear regression on a dataset using Gradient Descent Method.
 
 M1.py:
